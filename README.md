@@ -17,9 +17,9 @@ Just wrapped up a thrilling Amazon S3 project—challenge mode engaged!
 
 ## Links
 
-NextWork - [NextWork Challenge](https://link.nextwork.org/linkedin)
-
-My Profile - [https://www.linkedin.com/in/james-phillips-028141308/]
+## Links
+- [NextWork Challenge](https://link.nextwork.org/linkedin) ![NextWork](https://img.shields.io/badge/NextWork-%230A66C2?style=for-the-badge&logo=nextwork&logoColor=white)
+- [My Profile](https://www.linkedin.com/in/james-phillips-028141308/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Hashtags
 #awscloud #amazons3
