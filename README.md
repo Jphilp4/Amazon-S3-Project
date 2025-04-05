@@ -8,7 +8,7 @@ Just wrapped up a thrilling Amazon S3 project—challenge mode engaged!
 - ✅ Tackled public access settings and fixed an interesting challenge with the website's visibility.
 
 ## Documentation
-📸 See my journey from creating buckets to deploying a fully functional static website in my documentation here [[NextWork - My first time hosting a Website on Amazon S3! document.pdf](https://github.com/user-attachments/files/17460439/NextWork.-.My.first.time.hosting.a.Website.on.Amazon.S3.document.pdf)].
+📸 See my journey from creating buckets to deploying a fully functional static website in my documentation here [NextWork - My first time hosting a Website on Amazon S3! document.pdf](https://github.com/user-attachments/files/17460439/NextWork.-.My.first.time.hosting.a.Website.on.Amazon.S3.document.pdf).
 
 ## Connect with Me:
 Feel free to check out my other projects or connect with me on **[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)** and **[GitHub](https://github.com/Jphilp4)**.
