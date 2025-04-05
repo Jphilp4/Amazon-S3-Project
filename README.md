@@ -10,20 +10,10 @@ Just wrapped up a thrilling Amazon S3 project—challenge mode engaged!
 ## Documentation
 📸 See my journey from creating buckets to deploying a fully functional static website in my documentation below.
 
-## Acknowledgments
-📢 Shoutout to all AWS learners—let's connect, share tips, and keep improving!
+## Connect with Me:
+Feel free to check out my other projects or connect with me on **[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)** and **[GitHub](https://github.com/Jphilp4)**.
 
-🙏 Big thanks to NextWork for setting up this engaging challenge. Ready for the next one!
-
-## Links
-
-- [NextWork Challenge](https://learn.nextwork.org/)  
-  ![NextWork](https://img.shields.io/badge/NextWork-%23000000?style=for-the-badge&logo=nextwork&logoColor=white)
-
-- [My Profile](https://www.linkedin.com/in/james-phillips-028141308)  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-## Hashtags
+##
 #awscloud #amazons3
 
 ## Documentation:
